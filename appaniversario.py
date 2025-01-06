@@ -12,7 +12,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # Caminho da planilha de aniversários
-caminho_planilha = r"Z:\MARKETING\ENDOMARKETING\Aniversários\LISTA DE ANIVERSÁRIOS ATUALIZADA.xlsx"
+caminho_planilha = r"Z:\MARKETING\ENDOMARKETING\Aniversários\LISTA DE ANIVERSÁRIOS ATUALIZADA2.xlsx"
 
 # Caminho base para os arquivos de aniversário (imagens .png)
 caminho_base_aniversarios = r"Z:\MARKETING\ENDOMARKETING\Aniversários\2025"
