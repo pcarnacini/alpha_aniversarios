@@ -1,0 +1,17 @@
+[41928:15000:0106/105125.698:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.205 (not a warning)
+[41928:15000:0106/105125.769:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[15600:14440:0106/105125.889:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[15600:14440:0106/105126.034:ERROR:gpu_channel_manager.cc(952)] Failed to create GLES3 context, fallback to GLES2.
+[15600:14440:0106/105126.034:ERROR:gpu_channel_manager.cc(963)] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+[41848:25548:0106/105126.387:WARNING:spdy_session.cc(2707)] Received RST for invalid stream1
+[41928:15000:0106/105126.594:INFO:CONSOLE(156)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y8/r/95U1AMebBE3.js (156)
+[41848:25548:0106/105128.301:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 3
+[41928:15000:0106/105132.086:INFO:CONSOLE(71)] "ErrorUtils caught an error:
+
+Converting to a string will drop content data. Hash="undefined" Translation="{user_name} saiu" Content="{"key":null,"ref":null,"props":{"contact":{"id":"555597341986@c.us","type":"in","isBusiness":false,"isEnterprise":false,"isSmb":false,"labels":[],"isContactSyncCompleted":0,"textStatusLastUpdateTime":-1,"syncToAddressbook":false},"showNotifyName":tru" (type=object,Object)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs.", source: https://static.whatsapp.net/rsrc.php/v4/yJ/r/sCs_SFWyj76.js (71)
+[41928:15000:0106/105138.509:INFO:CONSOLE(47)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.whatsapp.net/rsrc.php/v4/y_/r/Erq9JIEfuV6.js (47)
+[41848:25548:0106/105143.557:WARNING:spdy_session.cc(2975)] Received HEADERS for invalid stream 7
+[41848:19168:0106/105143.634:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[41848:19168:0106/105143.634:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.

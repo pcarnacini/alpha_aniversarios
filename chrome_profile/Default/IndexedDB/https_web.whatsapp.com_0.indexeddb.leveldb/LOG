@@ -1,0 +1,22 @@
+2025/01/06-10:51:26.612 4c5c Reusing MANIFEST c:\Users\Usuário\Documents\Code\alpha_aniversarios\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/06-10:51:26.612 4c5c Recovering log #480
+2025/01/06-10:51:26.627 4c5c Reusing old log c:\Users\Usuário\Documents\Code\alpha_aniversarios\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000480.log 
+2025/01/06-10:51:27.053 4918 Level-0 table #490: started
+2025/01/06-10:51:27.062 4918 Level-0 table #490: 281171 bytes OK
+2025/01/06-10:51:27.064 4918 Delete type=0 #480
+2025/01/06-10:51:27.064 4c5c Manual compaction at level-0 from '\x00\x90\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x91\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/06-10:51:28.553 4918 Manual compaction at level-0 from '\x00\x91\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x92\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/06-10:51:29.759 8e0c Compacting 1@1 + 5@2 files
+2025/01/06-10:51:29.819 8e0c Generated table #491@1: 33692 keys, 2188183 bytes
+2025/01/06-10:51:29.858 8e0c Generated table #492@1: 2932 keys, 2149572 bytes
+2025/01/06-10:51:29.913 8e0c Generated table #493@1: 36269 keys, 2224716 bytes
+2025/01/06-10:51:29.959 8e0c Generated table #494@1: 59239 keys, 2197693 bytes
+2025/01/06-10:51:30.002 8e0c Generated table #495@1: 64460 keys, 1357852 bytes
+2025/01/06-10:51:30.002 8e0c Compacted 1@1 + 5@2 files => 10118016 bytes
+2025/01/06-10:51:30.003 8e0c compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/01/06-10:51:30.004 8e0c Delete type=2 #483
+2025/01/06-10:51:30.004 8e0c Delete type=2 #484
+2025/01/06-10:51:30.004 8e0c Delete type=2 #485
+2025/01/06-10:51:30.004 8e0c Delete type=2 #486
+2025/01/06-10:51:30.004 8e0c Delete type=2 #487
+2025/01/06-10:51:30.004 8e0c Delete type=2 #490

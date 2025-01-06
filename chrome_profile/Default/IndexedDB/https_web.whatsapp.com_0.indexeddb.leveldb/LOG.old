@@ -1,0 +1,32 @@
+2025/01/06-10:49:34.126 9194 Reusing MANIFEST c:\Users\Usuário\Documents\Code\alpha_aniversarios\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/06-10:49:34.127 9194 Recovering log #469
+2025/01/06-10:49:34.152 9194 Reusing old log c:\Users\Usuário\Documents\Code\alpha_aniversarios\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000469.log 
+2025/01/06-10:49:34.551 68a0 Level-0 table #479: started
+2025/01/06-10:49:34.562 68a0 Level-0 table #479: 403134 bytes OK
+2025/01/06-10:49:34.564 68a0 Delete type=0 #469
+2025/01/06-10:49:34.565 68a0 Manual compaction at level-0 from '\x00\x8e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x8f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/06-10:49:36.062 68a0 Level-0 table #481: started
+2025/01/06-10:49:36.063 68a0 Level-0 table #481: 1046 bytes OK
+2025/01/06-10:49:36.064 68a0 Delete type=0 #478
+2025/01/06-10:49:36.065 68a0 Manual compaction at level-0 from '\x00\x8f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x90\x00\x00\x00' @ 0 : 0; will stop at '\x00\x8f\x00\x00\x05' @ 793539 : 1
+2025/01/06-10:49:36.065 68a0 Compacting 1@0 + 1@1 files
+2025/01/06-10:49:36.081 68a0 Generated table #482@0: 12595 keys, 229908 bytes
+2025/01/06-10:49:36.081 68a0 Compacted 1@0 + 1@1 files => 229908 bytes
+2025/01/06-10:49:36.082 68a0 compacted to: files[ 0 1 5 0 0 0 0 ]
+2025/01/06-10:49:36.082 68a0 Delete type=2 #481
+2025/01/06-10:49:36.083 68a0 Manual compaction at level-0 from '\x00\x8f\x00\x00\x05' @ 793539 : 1 .. '\x00\x90\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/06-10:49:37.290 9194 Compacting 1@1 + 5@2 files
+2025/01/06-10:49:37.330 9194 Generated table #483@1: 33137 keys, 2185882 bytes
+2025/01/06-10:49:37.389 9194 Generated table #484@1: 2935 keys, 2150036 bytes
+2025/01/06-10:49:37.442 9194 Generated table #485@1: 36331 keys, 2225019 bytes
+2025/01/06-10:49:37.489 9194 Generated table #486@1: 60661 keys, 2200618 bytes
+2025/01/06-10:49:37.522 9194 Generated table #487@1: 60488 keys, 1274193 bytes
+2025/01/06-10:49:37.522 9194 Compacted 1@1 + 5@2 files => 10035748 bytes
+2025/01/06-10:49:37.523 9194 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/01/06-10:49:37.523 9194 Delete type=2 #472
+2025/01/06-10:49:37.523 9194 Delete type=2 #473
+2025/01/06-10:49:37.523 9194 Delete type=2 #474
+2025/01/06-10:49:37.523 9194 Delete type=2 #475
+2025/01/06-10:49:37.523 9194 Delete type=2 #476
+2025/01/06-10:49:37.523 9194 Delete type=2 #479
+2025/01/06-10:49:37.524 9194 Delete type=2 #482
